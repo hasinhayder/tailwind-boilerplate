@@ -10,6 +10,7 @@
     "vite": "^2.0.5"
   },
   "dependencies": {
+    "@tailwindcss/jit": "^0.1.0",
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.7",
     "tailwindcss": "^2.0.3"
