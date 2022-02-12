@@ -5,10 +5,8 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                fuchsia: colors.fuchsia,
-                cyan: colors.cyan,
-                emerald: colors.emerald,
-                teal: colors.teal
+                //add your own color
+                //https://tailwindcss.com/docs/customizing-colors
             },
             container: {
                 center: true,
